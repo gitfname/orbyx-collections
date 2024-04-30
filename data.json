@@ -3,8 +3,14 @@
         {
             "id": "sites_0",
             "link": "https://orbyx.tech",
-            "desc": "با ما بسازید",
+            "desc": "آنچه را می خواهید با ما بسازید ",
             "img": "https://orbyx-official-website-admin-panel.iran.liara.run/uploads/Apple_Computers_f7bb36b7b9.png"
+        },
+        {
+            "id": "sites_1",
+            "link": "https://orbyx.tech",
+            "desc": "hello world",
+            "img": "https://gitfname.github.io/orbyx-collections/logo.png"
         }
     ],
     "comments": [
