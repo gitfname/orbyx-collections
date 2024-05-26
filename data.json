@@ -31,10 +31,16 @@
             "img": "https://admin.orbyx.tech/uploads/uploads/NAGENCY_Google_Chrome_5_26_2024_9_47_08_PM_095acef2cb.png"
         },
         {
-            "id": "sites_2",
-            "link": "https://final-space.liara.run/",
-            "desc": "سامانه تخصصی مدیریت فایل",
-            "img": "https://admin.orbyx.tech/uploads/Orbyx_Spaces_Google_Chrome_2024_05_08_01_49_33_b_z_8b67daaa6b.png"
+            "id": "sites_5",
+            "link": "https://ostadyar-html.liara.run/",
+            "desc": "سایت آموزشگاهی",
+            "img": "https://admin.orbyx.tech/uploads/uploads/NAGENCY_Google_Chrome_5_26_2024_10_14_59_PM_90bfc12933.png"
+        },
+        {
+            "id": "sites_6",
+            "link": "https://orbyx-trade-masters.liara.run/",
+            "desc": "پلتفرم سرمایه گذاری بازار های مالی",
+            "img": "https://admin.orbyx.tech/uploads/uploads/NAGENCY_Google_Chrome_5_26_2024_10_19_16_PM_f0a83bd307.png"
         }
     ],
     "comments": [
